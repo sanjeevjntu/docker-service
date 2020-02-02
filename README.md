@@ -1,4 +1,7 @@
+## Building the docker image using Dockerfile
 docker build -f Dockerfile -t docker-service-image .
+
+## Check your image
 docker images
 
 # run the docker
